@@ -48,9 +48,9 @@ Typical results can be reproduced by executing the Jupyter Python notebooks:
 
   ——Pyomo template model and functions definition file used for following analysis：
 
-  #####       Figure 2b_LATCH_all_no constraint on ATP and NADPH supply#.ipynb
+  #####       Figure 2b_LATCH_all.ipynb
 
-  #####       Figure 2c_LATCH_core_no constraint on ATP and NADPH supply#.ipynb
+  #####       Figure 2c_LATCH_core.ipynb
 
 
 
